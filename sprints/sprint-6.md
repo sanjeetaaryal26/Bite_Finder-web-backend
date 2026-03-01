@@ -28,3 +28,7 @@
 - Description: Implemented backend task for sprint 6  item 7.
 - Notes: Small doc/update or refactor performed on 2026-03-01 10:16:03Z
 
+### Commit 8
+- Description: Implemented backend task for sprint 6  item 8.
+- Notes: Small doc/update or refactor performed on 2026-03-01 10:16:03Z
+
