@@ -1,0 +1,1 @@
+{"version":3,"file":"uploadRoutes.d.ts","sourceRoot":"","sources":["../../src/routes/uploadRoutes.ts"],"names":[],"mappings":"AACA,QAAA,MAAM,OAAO,KAAqB,CAAC;AACnC,QAAA,MAAM,cAAc,KAA0C,CAAC;AAC/D,QAAA,MAAM,MAAM,KAAoB,CAAC;AACjC,QAAA,MAAM,OAAO,KAAyB,CAAC;AACvC,QAAA,MAAM,MAAM,KAA6D,CAAC;AAC1E,QAAA,MAAQ,qBAAqB,OAAE,kBAAkB,KAA+C,CAAC;AAEjG,QAAA,MAAM,MAAM,KAAmB,CAAC"}
